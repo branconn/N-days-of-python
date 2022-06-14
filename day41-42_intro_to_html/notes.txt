@@ -1,0 +1,6 @@
+Code types:
+    HTML: hypertext markup language - structure of website, static content
+    CSS: cascading style sheets - color, shape, layout, size, etc.
+    JS: logic, dynamic content, behavior, functionality
+
+HTML tags are used for markup

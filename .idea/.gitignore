@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# They're not passwords, so it doesn't matter..
+/day29_tkinter3_password/not_passwords.json
+/password_manager.py
